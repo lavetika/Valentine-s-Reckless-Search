@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeWait: 5
-  scene: escenario
+  scene: Pt1. IntroHistoria
 --- !u!4 &1168720999
 Transform:
   m_ObjectHideFlags: 0

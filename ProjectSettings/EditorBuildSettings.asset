@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Final.unity
     guid: 40dbd54daa4a94843ae937ae53898ac2
+  - enabled: 1
+    path: Assets/Scenes/Pt1. IntroHistoria.unity
+    guid: 1e691bbb46b971347b4fdd668a67a3fb
+  - enabled: 1
+    path: Assets/Scenes/Pt2. Intro.unity
+    guid: e4a83994a875fb64d93c874ebc088e71
+  - enabled: 1
+    path: Assets/Scenes/Pt3. Intro.unity
+    guid: 3f2ddbef269ccd3449b9658c2d0c2923
   m_configObjects: {}
